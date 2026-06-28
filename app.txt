@@ -1,1 +1,2 @@
 heelo first line through terminal
+second line update update after commit through terminal
